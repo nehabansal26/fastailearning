@@ -7,5 +7,7 @@
 2. Set up VS code
 - install VS
 
-3. Set up Jupyter notebook
-4. Install Conda
+3. Install mamba 
+4. Jupyter 
+- install jupyter lab 
+- connect with mamba-forge
